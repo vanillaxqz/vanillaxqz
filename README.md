@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 3rd year student at Faculty of Computer Science @ UAIC
+- 🌱 I’m currently learning .NET and Unity
+- 📫 How to reach me: vanidotexe (Discord, Instagram)
